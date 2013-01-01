@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Wills Tech Project Blog
+tagline: Getting a start on writing and projects
 ---
 {% include JB/setup %}
 
