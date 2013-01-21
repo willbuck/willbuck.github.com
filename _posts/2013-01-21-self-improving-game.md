@@ -3,7 +3,7 @@ layout: post
 title: "Self Improving Game"
 description: "My game to improve Myself"
 category:
-tags: []
+tags: [goals, game]
 ---
 
 {% include JB/setup %}
